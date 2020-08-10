@@ -1,0 +1,9 @@
+{
+  "I18N_MESSAGE": "您好 i18n !!",
+  "SYSTEM": {
+    "APP_NAME": "Vue2 應用系統",
+    "LOGIN" : "登入" ,
+    "USER_NAME" : "帳號",
+    "PASSWORD" : "密碼"
+  }
+}

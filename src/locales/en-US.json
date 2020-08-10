@@ -1,0 +1,9 @@
+{
+  "I18N_MESSAGE": "hello i18n !!",
+  "SYSTEM": {
+    "APP_NAME": "Vue2 App",
+    "LOGIN" : "Login" ,
+    "USER_NAME" : "User Name",
+    "PASSWORD" : "Password"
+  }
+}
